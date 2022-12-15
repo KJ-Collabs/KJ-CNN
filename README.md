@@ -2,7 +2,7 @@
 
 A convolutional neural network, created to help us further our understanding in the field of computer vision.
 
-## Explanation
+# Explanation
 A convolutional neural network is a type of artificial neural network, that uses a mixture of [convolution](#convolution) and [pooling](#pooling) in its hidden layers in an attempt to prevent the overfitting that is common in multilayer perceptrons.
 
 ## Convolution
